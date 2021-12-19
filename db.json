@@ -1,24 +1,24 @@
 {
-      events: [
-        {
-          id: 5928101,
-          category: 'FOOD',
-          title: 'Belgian Breakfast',
-          description: 'Dine or take-out breakfast waffles',
-          location: '1028',
-          date: 'December 26,2022',
-          time: '8:30-10:00',
-          organizer: 'The Petits',
-        },
-        {
-          id: 5928101,
-          category: 'FOOD',
-          title: 'Asian Fusion',
-          description: 'Home-made asian food',
-          location: '1028',
-          date: 'December 25,2022',
-          time: '18:00',
-          organizer: 'The Petits',
-        },
-      ],
-    }
+   "events": [
+      {
+         "id": 5928101,
+         "category": "FOOD",
+         "title": "Belgian Breakfast",
+         "description": "Dine or take-out breakfast waffles",
+         "location": "1028",
+         "date": "December 26,2022",
+         "time": "8:30-10:00",
+         "organizer": "The Petits"
+      },
+      {
+         "id": 5928101,
+         "category": "FOOD",
+         "title": "Asian Fusion",
+         "description": "Home-made asian food",
+         "location": "1028",
+         "date": "December 25,2022",
+         "time": "18:00",
+         "organizer": "The Petits"
+      }
+   ]
+}
